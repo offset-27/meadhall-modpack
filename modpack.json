@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "game": "valheim",
+  "updated": "2026-09-16",
+  "mods": [
+    { "id": "denikson-BepInExPack_Valheim", "version": "5.4.2202", "side": "both" }
+  ],
+  "configs": ["config/*.cfg"],
+  "saga": [{ "version": 1, "date": "2026-09-16", "notes": "Initial modpack" }]
+}
