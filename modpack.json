@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "game": "valheim",
   "updated": "2026-09-22",
   "mods": [
@@ -7,49 +7,61 @@
       "id": "denikson-BepInExPack_Valheim",
       "version": "5.4.2350",
       "side": "both",
-      "pinned": false
+      "pinned": true,
+      "enabled": true
     },
     {
       "id": "Advize-PlantEverything",
       "version": "1.21.2",
       "side": "both",
-      "pinned": false
+      "pinned": true,
+      "enabled": false
     },
     {
       "id": "cjayride-InstantMonsterLootDrop",
       "version": "0.8.0",
       "side": "both",
-      "pinned": false
+      "pinned": true,
+      "enabled": false
     },
     {
       "id": "JereKuusela-Server_devcommands",
       "version": "1.113.0",
       "side": "both",
-      "pinned": false
+      "pinned": true,
+      "enabled": true
     },
     {
       "id": "k942-MassFarming",
       "version": "1.11.0",
       "side": "both",
-      "pinned": false
+      "pinned": true,
+      "enabled": false
     },
     {
       "id": "Pineapple-Clock",
       "version": "1.7.0",
       "side": "both",
-      "pinned": false
+      "pinned": true,
+      "enabled": false
     },
     {
       "id": "rendl0449-CraftFromContainers",
       "version": "3.5.8",
       "side": "both",
-      "pinned": false
+      "pinned": true,
+      "enabled": false
     }
   ],
   "configs": [
     "config/*.cfg"
   ],
   "saga": [
+    {
+      "version": 6,
+      "date": "2026-09-22",
+      "notes": "Server-Admin"
+    },
     {
       "version": 5,
       "date": "2026-09-22",
