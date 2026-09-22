@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "game": "valheim",
   "updated": "2026-09-22",
   "mods": [
@@ -15,14 +15,14 @@
       "version": "1.21.2",
       "side": "both",
       "pinned": true,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "cjayride-InstantMonsterLootDrop",
       "version": "0.8.0",
       "side": "both",
       "pinned": true,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "JereKuusela-Server_devcommands",
@@ -36,27 +36,32 @@
       "version": "1.11.0",
       "side": "both",
       "pinned": true,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "Pineapple-Clock",
       "version": "1.7.0",
       "side": "both",
       "pinned": true,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "rendl0449-CraftFromContainers",
       "version": "3.5.8",
       "side": "both",
       "pinned": true,
-      "enabled": false
+      "enabled": true
     }
   ],
   "configs": [
     "config/*.cfg"
   ],
   "saga": [
+    {
+      "version": 7,
+      "date": "2026-09-22",
+      "notes": "Launch-Mods"
+    },
     {
       "version": 6,
       "date": "2026-09-22",
