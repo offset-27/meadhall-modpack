@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "valheim",
   "updated": "2026-09-22",
   "mods": [
@@ -18,6 +18,12 @@
     {
       "id": "cjayride-InstantMonsterLootDrop",
       "version": "0.8.0",
+      "side": "both",
+      "pinned": false
+    },
+    {
+      "id": "JereKuusela-Server_devcommands",
+      "version": "1.113.0",
       "side": "both",
       "pinned": false
     },
@@ -44,6 +50,11 @@
     "config/*.cfg"
   ],
   "saga": [
+    {
+      "version": 5,
+      "date": "2026-09-22",
+      "notes": "Server-Admin"
+    },
     {
       "version": 4,
       "date": "2026-09-22",
