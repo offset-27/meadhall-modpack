@@ -6,21 +6,5 @@
   "configs": [
     "config/*.cfg"
   ],
-  "saga": [
-    {
-      "version": 3,
-      "date": "2026-09-22",
-      "notes": "Modpack updated"
-    },
-    {
-      "version": 2,
-      "date": "2026-09-22",
-      "notes": "Starter Pack"
-    },
-    {
-      "version": 1,
-      "date": "2026-09-16",
-      "notes": "Initial modpack"
-    }
-  ]
+  "saga": []
 }
