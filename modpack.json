@@ -1,49 +1,17 @@
 {
-  "version": 2,
+  "version": 3,
   "game": "valheim",
   "updated": "2026-09-22",
-  "mods": [
-    {
-      "id": "denikson-BepInExPack_Valheim",
-      "version": "5.4.2350",
-      "side": "both",
-      "pinned": false
-    },
-    {
-      "id": "Advize-PlantEverything",
-      "version": "1.21.2",
-      "side": "both",
-      "pinned": false
-    },
-    {
-      "id": "cjayride-InstantMonsterLootDrop",
-      "version": "0.8.0",
-      "side": "both",
-      "pinned": false
-    },
-    {
-      "id": "k942-MassFarming",
-      "version": "1.11.0",
-      "side": "both",
-      "pinned": false
-    },
-    {
-      "id": "rendl0449-CraftFromContainers",
-      "version": "3.5.8",
-      "side": "both",
-      "pinned": false
-    },
-    {
-      "id": "sixefyle-BiggerItemStack",
-      "version": "1.3.0",
-      "side": "both",
-      "pinned": false
-    }
-  ],
+  "mods": [],
   "configs": [
     "config/*.cfg"
   ],
   "saga": [
+    {
+      "version": 3,
+      "date": "2026-09-22",
+      "notes": "Modpack updated"
+    },
     {
       "version": 2,
       "date": "2026-09-22",
