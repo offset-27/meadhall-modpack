@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "game": "valheim",
   "updated": "2026-09-23",
   "mods": [
@@ -22,7 +22,7 @@
       "version": "0.8.0",
       "side": "both",
       "pinned": true,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "JereKuusela-Server_devcommands",
@@ -50,11 +50,18 @@
       "version": "3.5.8",
       "side": "both",
       "pinned": true,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "sixefyle-BiggerItemStack",
       "version": "1.3.0",
+      "side": "both",
+      "pinned": false,
+      "enabled": true
+    },
+    {
+      "id": "UnderHeiz-CraftFromContainers",
+      "version": "4.0.62",
       "side": "both",
       "pinned": false,
       "enabled": true
@@ -64,6 +71,11 @@
     "config/*.cfg"
   ],
   "saga": [
+    {
+      "version": 2,
+      "date": "2026-09-23",
+      "notes": "Update | Removed Instant Drop \u0026 Swapped Container Crafting Mods"
+    },
     {
       "version": 1,
       "date": "2026-09-23",
