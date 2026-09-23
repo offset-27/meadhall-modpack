@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 0,
   "game": "valheim",
   "updated": "2026-09-22",
   "mods": [
@@ -56,26 +56,5 @@
   "configs": [
     "config/*.cfg"
   ],
-  "saga": [
-    {
-      "version": 7,
-      "date": "2026-09-22",
-      "notes": "Launch-Mods"
-    },
-    {
-      "version": 6,
-      "date": "2026-09-22",
-      "notes": "Server-Admin"
-    },
-    {
-      "version": 5,
-      "date": "2026-09-22",
-      "notes": "Server-Admin"
-    },
-    {
-      "version": 4,
-      "date": "2026-09-22",
-      "notes": "Stable Initial Modlist"
-    }
-  ]
+  "saga": []
 }
