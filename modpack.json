@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "valheim",
   "updated": "2026-09-29",
   "mods": [
@@ -22,7 +22,7 @@
       "version": "0.5.1",
       "side": "both",
       "pinned": false,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "Azumatt-Official_BepInEx_ConfigurationManager",
@@ -162,6 +162,11 @@
     "config/*.cfg"
   ],
   "saga": [
+    {
+      "version": 5,
+      "date": "2026-09-29",
+      "notes": "Update | Loot Drop got reactivated by accident - off now"
+    },
     {
       "version": 4,
       "date": "2026-09-29",
