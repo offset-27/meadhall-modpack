@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "game": "valheim",
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "mods": [
     {
       "id": "denikson-BepInExPack_Valheim",
@@ -32,50 +32,8 @@
       "enabled": true
     },
     {
-      "id": "Buttergeland-CraftFromContainers",
-      "version": "3.5.2",
-      "side": "both",
-      "pinned": false,
-      "enabled": true
-    },
-    {
-      "id": "castix-FloatingItems",
-      "version": "1.0.0",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
-    },
-    {
-      "id": "Frogger-InfiniteTorches",
-      "version": "0.0.2",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
-    },
-    {
-      "id": "JereKuusela-Item_Stand_All_Items",
-      "version": "1.21.0",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
-    },
-    {
       "id": "JereKuusela-Server_devcommands",
       "version": "1.113.0",
-      "side": "both",
-      "pinned": true,
-      "enabled": false
-    },
-    {
-      "id": "JoelOliMclean-NoRainDamage",
-      "version": "1.2.2",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
-    },
-    {
-      "id": "k942-MassFarming",
-      "version": "1.11.0",
       "side": "both",
       "pinned": true,
       "enabled": false
@@ -88,39 +46,11 @@
       "enabled": true
     },
     {
-      "id": "MaxiMods-MultiCraft",
-      "version": "1.3.0",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
-    },
-    {
-      "id": "nDeavor-PlantAnywhere",
-      "version": "0.0.3",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
-    },
-    {
       "id": "Pineapple-Clock",
       "version": "1.7.0",
       "side": "both",
       "pinned": true,
       "enabled": true
-    },
-    {
-      "id": "rendl0449-CraftFromContainers",
-      "version": "3.5.8",
-      "side": "both",
-      "pinned": true,
-      "enabled": false
-    },
-    {
-      "id": "RustyMods-UsefulPaths",
-      "version": "1.0.2",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
     },
     {
       "id": "sixefyle-BiggerItemStack",
@@ -130,25 +60,11 @@
       "enabled": true
     },
     {
-      "id": "Tekla-AutoRepair",
-      "version": "5.4.1602",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
-    },
-    {
       "id": "UnderHeiz-CraftFromContainers",
       "version": "4.0.62",
       "side": "both",
       "pinned": false,
       "enabled": true
-    },
-    {
-      "id": "ValheimPlus1-ValheimPlus",
-      "version": "1.2.1",
-      "side": "both",
-      "pinned": false,
-      "enabled": false
     },
     {
       "id": "Xenofell-TorchesEternal",
@@ -162,6 +78,11 @@
     "config/*.cfg"
   ],
   "saga": [
+    {
+      "version": 6,
+      "date": "2026-09-30",
+      "notes": "Update | Missed a Rouge Double Up Craft from Containers Mod"
+    },
     {
       "version": 5,
       "date": "2026-09-29",
