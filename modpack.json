@@ -1,18 +1,18 @@
 {
-  "version": 6,
+  "version": 7,
   "game": "valheim",
-  "updated": "2026-09-30",
+  "updated": "2026-10-11",
   "mods": [
     {
       "id": "denikson-BepInExPack_Valheim",
-      "version": "5.4.2350",
+      "version": "5.4.2351",
       "side": "both",
-      "pinned": true,
+      "pinned": false,
       "enabled": true
     },
     {
       "id": "Advize-PlantEverything",
-      "version": "1.21.2",
+      "version": "1.21.3",
       "side": "both",
       "pinned": true,
       "enabled": true
@@ -33,10 +33,10 @@
     },
     {
       "id": "JereKuusela-Server_devcommands",
-      "version": "1.113.0",
+      "version": "1.115.0",
       "side": "both",
       "pinned": true,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "MainStreetGaming-MassFarming",
@@ -53,8 +53,22 @@
       "enabled": true
     },
     {
+      "id": "shudnal-ConditionalConfigSync",
+      "version": "1.0.10",
+      "side": "both",
+      "pinned": false,
+      "enabled": true
+    },
+    {
+      "id": "shudnal-Seasons",
+      "version": "1.10.5",
+      "side": "both",
+      "pinned": false,
+      "enabled": true
+    },
+    {
       "id": "sixefyle-BiggerItemStack",
-      "version": "1.3.0",
+      "version": "2.0.0",
       "side": "both",
       "pinned": false,
       "enabled": true
@@ -62,6 +76,20 @@
     {
       "id": "UnderHeiz-CraftFromContainers",
       "version": "4.0.62",
+      "side": "both",
+      "pinned": false,
+      "enabled": true
+    },
+    {
+      "id": "ValheimModding-Jotunn",
+      "version": "2.30.2",
+      "side": "both",
+      "pinned": false,
+      "enabled": true
+    },
+    {
+      "id": "ValheimModding-JsonDotNET",
+      "version": "13.0.4",
       "side": "both",
       "pinned": false,
       "enabled": true
@@ -78,6 +106,11 @@
     "config/*.cfg"
   ],
   "saga": [
+    {
+      "version": 7,
+      "date": "2026-10-11",
+      "notes": "Update | Seasons"
+    },
     {
       "version": 6,
       "date": "2026-09-30",
